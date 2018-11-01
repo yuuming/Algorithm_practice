@@ -2,3 +2,4 @@
 ## Hackerrank  
 ### Warmup  
 * Staircase 
+* Mini Max Sum
