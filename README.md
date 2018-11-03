@@ -1,5 +1,6 @@
-# Algorithm_practice
+# Dairy Algorithm_practice
 ## Hackerrank  
-### Warmup  
+### Warmup  Java
 * Staircase 
 * Mini Max Sum
+* Grading Students
